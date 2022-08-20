@@ -1,6 +1,8 @@
 # NetworkAutomation
 
-Python scripts which automates the common network operation such as
+Python scripts which automates the common network operation using python or bash 
+
+Scripts accomplish the following tasks
 
 1. Reading the configuration from Network devices 
 2. Pushing the configuration to the Network devices
