@@ -24,7 +24,7 @@ f.close()
 
 Running_config=router_manager.get_config("running")
 g=open('Running.txt','w')
-g.write(str(Running_config))                             # Copying running configuration to a file in xml format
+g.write(str(Running_config))                            # Copying running configuration to a file in xml format
 g.close()
 
 print(type(Running_config))
