@@ -1,0 +1,7 @@
+<config>
+  <interfaces xmlns="urn:ietf:params:xml:ns:yang:ietf-interfaces">
+	<interface operation="delete">
+	  <name>{int_name}</name>
+	</interface>
+  </interfaces>
+</config>
